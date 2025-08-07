@@ -2,7 +2,7 @@
  </style>
 </head>
 <body>
-  <h1>📱IP Tracking Installation guide  (Termux)</h1>
+  <h1>📱E-mail bomber Installation guide  (Termux)</h1>
   <p>নিচের কমান্ডগুলো ধাপে ধাপে চালাও:</p>
   <pre>
 pkg install requests 
