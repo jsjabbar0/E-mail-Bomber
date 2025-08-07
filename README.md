@@ -1,5 +1,5 @@
 # E-mail-Bomber
- </style>
+ 
 </head>
 <body>
   <h1>📱E-mail bomber Installation guide  (Termux)</h1>
